@@ -2,8 +2,6 @@
 
 A responsive web application displaying Ramadan prayer times for Milton Keynes Islamic Center (MKMA). This calendar shows the five daily prayers (Fajr, Dhuhr, Asr, Maghrib, and Isha) for the entire month of Ramadan 1446 AH (2025).
 
-![Ramadan Calendar Screenshot](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/cf29bed5-206b-4aa0-b451-e99ff9c598f5.JPG-L3CrsRq9G9epUXSbjdVh5bpBvjxd1c.jpeg)
-
 ## Features
 
 - 📆 Complete Ramadan calendar with prayer times for all 30 days
@@ -26,9 +24,10 @@ A responsive web application displaying Ramadan prayer times for Milton Keynes I
 1. Clone the repository:
    ```bash
    git clone https://github.com/urbanevac/2025-ramadan-mk.git
-   cd ramadan-calendar
+   cd 2025-ramadan-mk
   ```
-```
+
+
 2. Install dependencies:
 
 ```shellscript
