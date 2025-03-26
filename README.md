@@ -22,11 +22,11 @@ A responsive web application displaying Ramadan prayer times for Milton Keynes I
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/urbanevac/2025-ramadan-mk.git
-   cd 2025-ramadan-mk
-  ```
 
+```bash
+git clone https://github.com/urbanevac/2025-ramadan-mk.git
+cd 2025-ramadan-mk
+```
 
 2. Install dependencies:
 
@@ -108,7 +108,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-
-
-   
